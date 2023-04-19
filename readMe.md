@@ -13,11 +13,11 @@
     <tr>
       <th scope="row">1</th>
       <td>암호 해독</td>
-      <td>두개 뽑아서 더하기</td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Jacob</td>
+      <td>두개 뽑아서 더하기</td>
       <td>Thornton</td>
     </tr>
   </tbody>

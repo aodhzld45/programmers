@@ -3,9 +3,8 @@
 <table>
    <tr>
       <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">링크</th>
+      <th scope="col">문제</th>
     </tr>
    
    <tbody>

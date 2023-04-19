@@ -12,8 +12,8 @@
    <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
+      <td>암호 해독</td>
+      <td>두개 뽑아서 더하기</td>
     </tr>
     <tr>
       <th scope="row">2</th>

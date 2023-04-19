@@ -2,7 +2,12 @@
 
 <table>
   <tr>
+    <td>테이블</td>
+        <td>테이블</td?
+
+        <td>테이블</td?
     <td>테이블</td?
+
   
   </tr>
 </table>

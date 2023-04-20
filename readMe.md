@@ -16,10 +16,18 @@
       <td>https://school.programmers.co.kr/learn/courses/30/lessons/120892</td>
       <td>2023-04-19</td>
     </tr>
+      
     <tr>
-      <th>2</th>
+      <th scope="row">2</th>
       <td>두개 뽑아서 더하기</td>
       <td>https://school.programmers.co.kr/learn/courses/30/lessons/68644</td>
+      <td>2023-04-19</td>
+    </tr>
+      
+     <tr>
+      <th scope="row">3</th>
+      <td>비밀지도</td>
+      <td>https://school.programmers.co.kr/learn/courses/30/lessons/17681</td>
       <td>2023-04-19</td>
     </tr>
   </tbody>
@@ -32,11 +40,4 @@
 | git diff     | git diff       | git diff      |
 
 
-<table class="table">
-  <thead class="table-dark">
-    1234
-  </thead>
-  <tbody>
-    123
-  </tbody>
-</table>
+

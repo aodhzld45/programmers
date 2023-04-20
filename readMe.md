@@ -23,7 +23,7 @@
       <td>2023-04-19</td>
     </tr>
     <tr>
-      <th scope="row">2</th>
+      <th scope="row">3</th>
       <td>비밀지도</td>
       <td>https://school.programmers.co.kr/learn/courses/30/lessons/17681</td>
       <td>2023-04-19</td>
@@ -31,7 +31,7 @@
       
      <!-- 2023-04-20-->
      <tr>
-      <th scope="row">2</th>
+      <th scope="row">1</th>
       <td>음양 더하</td>
       <td>https://school.programmers.co.kr/learn/courses/30/lessons/76501</td>
       <td>2023-04-20</td>

@@ -2,11 +2,10 @@
 
 <table>
    <tr>
-      <th scope="col">#</th>
+      <th scope="col"><a href="https://school.programmers.co.kr/">바로가기</a></th>
       <th scope="col">문제</th>
       <th scope="col">링크</th>
       <th scope="col">날짜</th>
-
     </tr>
    
    <tbody>
@@ -19,8 +18,17 @@
     <tr>
       <th scope="row">2</th>
       <td>두개 뽑아서 더하기</td>
-      <td>Thornton</td>
+      <td>https://school.programmers.co.kr/learn/courses/30/lessons/68644</td>
+      <td>2023-04-19</td>
     </tr>
+      
+      
+      
+      
+      
+      
+      
+      
   </tbody>
   
   

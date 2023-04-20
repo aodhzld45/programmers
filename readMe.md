@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>프로그래머스 테스트용</title>
-</head>
+
 <body>
     <h1>프로그래머스 코딩 테스트 연습용</h1>
 
@@ -40,14 +33,9 @@
           <td>2023-04-19</td>
         </tr>
 
-        <tr>
-            <th scope="row">4</th>
-            <td>음양 더하기</td>
-            <td>https://school.programmers.co.kr/learn/courses/30/lessons/76501</td>
-            <td>2023-04-20</td>
-          </tr>
+
       </tbody>
     
     </table>
 </body>
-</html>
+

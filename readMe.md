@@ -30,3 +30,13 @@
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+
+
+<table class="table">
+  <thead class="table-dark">
+    ...
+  </thead>
+  <tbody>
+    ...
+  </tbody>
+</table>

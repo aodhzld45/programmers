@@ -22,11 +22,11 @@
       <td>https://school.programmers.co.kr/learn/courses/30/lessons/68644</td>
       <td>2023-04-19</td>
     </tr>
-      
-
-      
-
   </tbody>
-  
-  
+
 </table>
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |

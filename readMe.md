@@ -13,7 +13,8 @@
     <tr>
       <th scope="row">1</th>
       <td>암호 해독</td>
-      <td></td>
+      <td>https://school.programmers.co.kr/learn/courses/30/lessons/120892</td>
+      <td>2023-04-19</td>
     </tr>
     <tr>
       <th scope="row">2</th>

@@ -2,7 +2,7 @@
 
 <table>
    <tr>
-      <th scope="col"><a href="https://school.programmers.co.kr/">바로가기</a></th>
+      <th scope="col"><a href="https://school.programmers.co.kr/">프로그래머스</a></th>
       <th scope="col">문제</th>
       <th scope="col">링크</th>
       <th scope="col">날짜</th>

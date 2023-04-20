@@ -7,7 +7,7 @@
       <th scope="col">링크</th>
       <th scope="col">날짜</th>
 
-    </tr>
+  </tr>
    
    <tbody>
     <tr>

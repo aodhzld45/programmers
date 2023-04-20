@@ -29,6 +29,13 @@
       <td>2023-04-19</td>
     </tr>
       
+          <tr>
+      <th scope="row">3</th>
+      <td>비밀지도</td>
+      <td>https://school.programmers.co.kr/learn/courses/30/lessons/17681</td>
+      <td>2023-04-19</td>
+    </tr>
+      
     <tr>
       <th scope="row">4</th>
       <td>음양 더하기/td>

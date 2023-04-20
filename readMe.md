@@ -30,9 +30,9 @@
     </tr>
       
      <!-- 2023-04-20-->
-     <tr>
-      <th scope="row">1</th>
-      <td>음양 더하</td>
+    <tr>
+      <th scope="row">4</th>
+      <td>음양 더하기/td>
       <td>https://school.programmers.co.kr/learn/courses/30/lessons/76501</td>
       <td>2023-04-20</td>
     </tr>

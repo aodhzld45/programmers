@@ -1,25 +1,3 @@
-    // 1. 주어진 정수 배열 arr1, arr2 각 원소(x)를 이진수로 변환 
-    // 2. arr1을 지도1 arr2 지도2로 명시
-    // 3. 벽은 or / 공백은 and로처리
-    
-    // function solution(price) {
-    // if (price >= 100000 && price < 300000) {
-    //     return Math.floor(price * .95)
-    // } else if (price >= 300000 && price < 500000) {
-    //     return Math.floor(price * .9)
-    // } else if (price >= 500000) {
-    //     return Math.floor(price * .8)
-    // } else {
-    //     return price
-    // }
-
-    //  //배열 정렬
-    // sides.sort((a, b) => a - b); //배열 오름차순(큰 순으로 정렬)
-
-    // sides.sort((a, b) => b - a); //배열 내림차순(큰 순으로 정렬)
-
-    // return answer;
-//  }
 
     // 1. 주어진 정수 배열 arr1, arr2 각 원소(x)를 이진수로 변환 
     // 2. arr1을 지도1 arr2 지도2로 명시

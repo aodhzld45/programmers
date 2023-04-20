@@ -34,9 +34,9 @@
 
 <table class="table">
   <thead class="table-dark">
-    ...
+    1234
   </thead>
   <tbody>
-    ...
+    123
   </tbody>
 </table>

@@ -40,6 +40,13 @@
 <td>2023-04-20</td>
 </tr>
 
+<tr>
+<th>5</th>
+<td>옹알이 (1)</td>
+<td>https://school.programmers.co.kr/learn/courses/30/lessons/120956</td>
+<td>2023-04-24</td>
+</tr>
+
 </tbody>
 
 </table>

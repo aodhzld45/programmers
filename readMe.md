@@ -47,6 +47,13 @@
 <td>2023-04-24</td>
 </tr>
 
+<tr>
+<th>6</th>
+<td>배열의 유사도</td>
+<td>https://school.programmers.co.kr/learn/courses/30/lessons/120903</td>
+<td>2023-04-24</td>
+</tr>
+
 </tbody>
 
 </table>

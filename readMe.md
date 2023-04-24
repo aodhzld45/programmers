@@ -54,6 +54,13 @@
 <td>2023-04-24</td>
 </tr>
 
+<tr>
+<th>7</th>
+<td>컨트롤 제트</td>
+<td>https://school.programmers.co.kr/learn/courses/30/lessons/120853</td>
+<td>2023-04-24</td>
+</tr>
+
 </tbody>
 
 </table>

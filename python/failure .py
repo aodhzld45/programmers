@@ -60,7 +60,7 @@ Simple Code
 # ★스테이지에 도달한 유저가 없는 경우 해당 스테이지의 실패율은 0 으로 정의
 
 def solution(N, stages):
-    failure = {} # 실패율 딕셔너리로 key: 스테이지 / value: 실패율로 정의하기 위해.
+    failure = {} # 실패율 딕셔너리로 key: 스테이지 / value: 실패율로 정의하기 위해 사용
     total = len(stages)
     
     for stage in range(1, N+1):

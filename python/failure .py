@@ -42,11 +42,6 @@
             
 #         return answer
     
-    
-    
-    
-    
-    
 #########################
 '''
 Simple Code
@@ -61,21 +56,28 @@ Simple Code
 
 def solution(N, stages):
     failure = {} # 실패율 딕셔너리로 key: 스테이지 / value: 실패율로 정의하기 위해 사용
-    total = len(stages)
+    total = len(stages) # 총사용자의 명수 -> stages의 크기(길이)만큼
     
-    for stage in range(1, N+1):
+    for stage in range(1, N+1): # stages에는 1 이상 N + 1 이하의 자연수
     
         if total != 0:
-            count = stages.count(stage)
-            failure[stage] = count / total
-            total -= count
+            
+            count = stages.count(stage) # count함수를 이용한 사용자수 순환 체크
+            failure[stage] = count / total # 실패율 구하기 = 해당 스테이지의 사용자수 / 전체 사용자로 나눈값 
+            total -= count # 그 다음 스테이지의 값을 구하기 위해 전체 사용자에서  해당 스테이지 도달한 사용자를 빼기
             
         else:
-            failure[stage] = 0
+            failure[stage] = 0 # 스테이지에 도달한 유저가 없는 경우 해당 스테이지의 실패율은 0 으로 정의
     
-    print(failure)
+        failureArr = list(failure.items()) # failure 딕셔너리의 key value값을 모두 가져오기 위해 items() 사용
+        failureArr.sort(key=lambda x: (-x[1], x[0]))
+        sorted_failure = [f[0] for f in failureArr]
+         
+        print(sorted_failure)
 
-    return sorted(failure, key=lambda x : failure[x], reverse=True)
+    return sorted_failure
+
+    # return sorted(failure, key=lambda x : failure[x], reverse=True)
 
 print(solution(5, [2, 1, 2, 6, 2, 4, 3, 3]))
 print(solution(4, [4,4,4,4,4]))

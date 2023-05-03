@@ -70,10 +70,10 @@ def solution(N, stages):
             failure[stage] = 0 # 스테이지에 도달한 유저가 없는 경우 해당 스테이지의 실패율은 0 으로 정의
     
         failureArr = list(failure.items()) # failure 딕셔너리의 key value값을 모두 가져오기 위해 items() 사용
-        failureArr.sort(key=lambda x: (-x[1], x[0]))
+        failureArr.sort(key=lambda x: (-x[1], x[0])) #enumalate를 이용한 반복
         sorted_failure = [f[0] for f in failureArr]
          
-        print(sorted_failure)
+        print(failure)
 
     return sorted_failure
 

@@ -11,7 +11,6 @@
 </tr>
        
 <tbody>
-<!-- 2023-04-19-->
 <tr>
 <th scope="row">1</th>
 <td>암호 해독</td>
@@ -60,8 +59,25 @@
 </table>
 
 <h2>Python</h2>    
-|번호|제목|내용|날짜|
-|:---:|:---:|:---:|:---:|
-|1|옹알이|https://school.programmers.co.kr/learn/courses/30/lessons/120956|2023-05-04|
-|중앙정렬|중앙정렬|중앙정렬|중앙정렬|
-|중앙정렬|중앙정렬|중앙정렬|중앙정렬|
+<table>
+<tr>
+  <th scope="col"><a href="https://school.programmers.co.kr/">프로그래머스</a></th>
+  <th scope="col">문제</th>
+  <th scope="col">링크</th>
+  <th scope="col">날짜</th>
+</tr>
+
+<tbody>
+<tr>
+<th scope="row">1</th>
+<td>옹알이(1)</td>
+<td>https://school.programmers.co.kr/learn/courses/30/lessons/120892</td>
+<td>2023-04-24</td>
+</tr>
+
+
+
+
+</table>
+
+

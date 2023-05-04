@@ -71,13 +71,12 @@ def solution(N, stages):
     
         failureArr = list(failure.items()) # failure 딕셔너리의 key value값을 모두 가져오기 위해 items() 사용
         failureArr.sort(key=lambda x: (-x[1], x[0])) #enumalate를 이용한 반복
-        sorted_failure = [f[0] for f in failureArr]
+        sorted_failure = [f[0] for f in failureArr] # enumerate() 메소드를 활용해서 keypad의 index와 value가 같이 나오도록 순환
          
-        print(failure)
+        print(sorted_failure)
 
     return sorted_failure
 
-    # return sorted(failure, key=lambda x : failure[x], reverse=True)
 
 print(solution(5, [2, 1, 2, 6, 2, 4, 3, 3]))
 print(solution(4, [4,4,4,4,4]))

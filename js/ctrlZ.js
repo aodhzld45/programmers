@@ -1,5 +1,5 @@
 function solution(s) {
-    //제한 사항 s가 공백, 숫자 'Z'로 이루어져 있어서 split ' ' 공백을 따로 분리
+    // 제한 사항 s가 공백, 숫자 'Z'로 이루어져 있어서 split ' ' 공백을 따로 분리
     s = s.split(' ');
 
     let answer = [];

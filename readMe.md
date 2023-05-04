@@ -1,6 +1,7 @@
 
 <h1>프로그래머스 코딩 테스트 연습용</h1>
     
+<h2>JavaScript</h2>    
 <table>
 <tr>
   <th scope="col"><a href="https://school.programmers.co.kr/">프로그래머스</a></th>
@@ -42,20 +43,13 @@
 
 <tr>
 <th>5</th>
-<td>옹알이 (1)</td>
-<td>https://school.programmers.co.kr/learn/courses/30/lessons/120956</td>
-<td>2023-04-24</td>
-</tr>
-
-<tr>
-<th>6</th>
 <td>배열의 유사도</td>
 <td>https://school.programmers.co.kr/learn/courses/30/lessons/120903</td>
 <td>2023-04-24</td>
 </tr>
 
 <tr>
-<th>7</th>
+<th>6</th>
 <td>컨트롤 제트</td>
 <td>https://school.programmers.co.kr/learn/courses/30/lessons/120853</td>
 <td>2023-04-24</td>
@@ -65,8 +59,9 @@
 
 </table>
 
-|번호|제목|내용|설명|
+<h2>Python</h2>    
+|번호|제목|내용|날짜|
 |:---:|:---:|:---:|:---:|
-|중앙정렬|중앙정렬|중앙정렬|중앙정렬|
+|1|옹알이|https://school.programmers.co.kr/learn/courses/30/lessons/120956|2023-05-04|
 |중앙정렬|중앙정렬|중앙정렬|중앙정렬|
 |중앙정렬|중앙정렬|중앙정렬|중앙정렬|

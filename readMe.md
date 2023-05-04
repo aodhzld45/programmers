@@ -96,6 +96,13 @@
 <td>2023-05-04</td>
 </tr>
 
+<tr>
+<th scope="row">5</th>
+<td>타겟넘버</td>
+<td>https://school.programmers.co.kr/learn/courses/30/lessons/43165</td>
+<td>2023-05-04</td>
+</tr>
+
 
 </tbody>
 

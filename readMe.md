@@ -75,8 +75,29 @@
 <td>2023-04-24</td>
 </tr>
 
+<tr>
+<th scope="row">2</th>
+<td>실패율</td>
+<td>https://school.programmers.co.kr/learn/courses/30/lessons/42889</td>
+<td>2023-05-04</td>
+</tr>
+
+<tr>
+<th scope="row">3</th>
+<td>124나라</td>
+<td>https://school.programmers.co.kr/learn/courses/30/lessons/12899</td>
+<td>2023-05-04</td>
+</tr>
+
+<tr>
+<th scope="row">4</th>
+<td>키패드누르기</td>
+<td>https://school.programmers.co.kr/learn/courses/30/lessons/67256</td>
+<td>2023-05-04</td>
+</tr>
 
 
+</tbody>
 
 </table>
 

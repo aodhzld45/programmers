@@ -110,6 +110,20 @@
 <td>2023-05-09</td>
 </tr>
 
+<tr>
+<th scope="row">6</th>
+<td>두큐의 합 같게 만들기</td>
+<td>https://school.programmers.co.kr/learn/courses/30/lessons/118667</td>
+<td>2023-05-30</td>
+</tr>
+
+<tr>
+<th scope="row">7</th>
+<td>크레인게임</td>
+<td>https://school.programmers.co.kr/learn/courses/30/lessons/64061</td>
+<td>2023-05-30</td>
+</tr>
+
 
 </tbody>
 
